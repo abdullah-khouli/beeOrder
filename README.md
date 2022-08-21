@@ -26,7 +26,6 @@ Product Favorite.
 ![Settings_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804210-cfc7fca7-d6ad-4e3c-b500-72d419684057.png)
 ![Auth Loading_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804215-940aaa0f-f821-4287-95ab-827ae14687ed.png)
 ![Auth_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804221-2446d252-9da7-4871-9a28-6c53f5414dc4.png)
-![cart_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804226-6ad76e7e-a306-47c7-8256-7b0990800b76.png)
 ![Email verification_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804229-29bdb0fb-d856-45be-873e-d0ea5e5698f3.png)
 ![Filter_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804237-1181af1d-435c-4578-a7e8-4d207c7c3270.png)
 ![Home shimmer_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/90754092/185804250-f7ace210-144a-4554-b5c7-7e73a1baa36c.png)
