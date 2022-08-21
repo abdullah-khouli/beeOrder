@@ -1,0 +1,21 @@
+class ProductModel {
+  final String id;
+  final String catId;
+  final String restId; //local attribute
+  final String title;
+  final String description;
+  final String price;
+  final String imageUrl;
+  bool isFavorite;
+
+  ProductModel({
+    required this.id,
+    required this.catId,
+    required this.restId,
+    required this.title,
+    required this.description,
+    required this.price,
+    required this.imageUrl,
+    this.isFavorite = false, //الحالة الافتراضية لاي منتج هو انه ليس مفضل
+  });
+}
