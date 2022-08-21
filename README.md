@@ -1,16 +1,16 @@
-# beeorder_bloc
+# BeeOrder App
 
-A new Flutter project.
+A new useful Flutter App to facilitate your daily life.
 
-## Getting Started
+## Features and Technologies:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Null Safety.
+Bloc State management.
+Bloc architecture Pattern.
+Responsive screens.
+Splash screen
+Firebase Rest Api
+Auth Screen(Reset password via send a Link to the email,Email Verification)
+Shimmer.
+Search.
+Product Favorite.
